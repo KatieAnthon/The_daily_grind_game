@@ -12,9 +12,9 @@ This will ensure that any missing dependencies are installed into your virtual e
 >
 
 4. To run the backend:
- `cd api`
+`cd api` and then
 `flask --app app run`
 
 5. To run the frontend:
-> cd src
-> python app.py
+`cd src` and then
+`python app.py`
