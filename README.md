@@ -9,3 +9,12 @@ This will start the virtual environment
 3. To install all project dependencies, run: 
 > $ pip install -r requirements.txt -v
 This will ensure that any missing dependencies are installed into your virtual environment.
+>
+
+4. To run the backend:
+ > cd api
+ > flask --app app run
+
+5. To run the frontend:
+> cd src
+> python app.py
