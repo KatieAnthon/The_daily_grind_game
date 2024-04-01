@@ -1,3 +1,8 @@
+# The Dialy Grind
+watch us present this project :) (from 42:45): https://www.youtube.com/watch?v=BH8S6f3Pw9M
+
+
+
 ## Set up 
 
 1. Please insure that you have pip installed on your system. I you do not have pip please follow instructions from the link: https://pip.pypa.io/en/stable/installation/
