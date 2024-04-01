@@ -23,7 +23,7 @@ The Daily Grind is a minigame app, where users can 'level up' in their chosen 'c
 
 
 
-
+# If you want to play --> 
 
 ## Set up 
 
