@@ -33,11 +33,17 @@ Ensure that you have pip installed on your system. If not, follow the instructio
 #### Setup
 
 1. Clone the repository:
-```git clone https://github.com/KatieAnthon/The_daily_grind_game.git
-cd your-repo-name ```
+```
+git clone https://github.com/KatieAnthon/The_daily_grind_game.git
+```
+```
+cd your-repo-name
+```
 
 2. Activate the virtual environment:
-```source env/bin/activate
+   
+```
+source env/bin/activate
 ```
 
 3. Install dependencies:
