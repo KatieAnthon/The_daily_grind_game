@@ -47,13 +47,15 @@ source env/bin/activate
 ```
 
 3. Install dependencies:
-```pip install -r requirements.txt -v
+```
+pip install -r requirements.txt -v
 ```
 
 #### Running the Application
 
 ##### Backend
 1. Navigate to the api directory:
+   
 ```
 cd api
 ```
